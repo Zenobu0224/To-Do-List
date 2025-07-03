@@ -38,6 +38,9 @@ This app allows users to stay organized by adding and removing tasks in a friend
 
 ---
 
-💻 How to Run
+💻 🚀 How to Run
 
-<!--Clone this repository-->
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Zenobu0224/To-Do-List.git
+   cd ToDoList
