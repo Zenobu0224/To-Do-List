@@ -18,7 +18,7 @@ This app allows users to stay organized by adding and removing tasks in a friend
 
 📷 Preview
 
-<!--![App Screenshot](ToDoList/imgs/screenshot.png)-->
+![App Screenshot](TDL_preview.png)
 
 ---
 
